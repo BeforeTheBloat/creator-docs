@@ -80,6 +80,20 @@
 35. totem
 ```
 
+## Animation List
+```
+1. animationArmsDown
+2. animationArmsOutFront
+3. animationStationaryLegs
+4. animationSingleLegAnimation
+5. animationSingleArmAnimation
+6. animationStatueOfLibertyArms
+7. animationDontShowArmor
+8. animationNoHeadBob
+9. animationUpsideDown
+10. animationInvertedCrouch
+```
+
 ## Item ID List
 ```
 AIR - 0
