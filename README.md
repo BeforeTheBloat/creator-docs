@@ -18,6 +18,7 @@
    ]
 }
 ```
+PLEASE NOTE: Subpacks are not a thing in this version of minecraft.
 
 ## Behavior Pack Manifest
 ```
