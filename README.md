@@ -1,4 +1,4 @@
-![image alt](https://media.discordapp.net/attachments/1185068383784419399/1294361330786111528/ezgif-5-40212f2a85.gif?ex=670abb6d&is=670969ed&hm=5180dea497700ddd6639b80d701869ff36c7bd2de6068495aea3a666acb06dc5&)
+## Wtf is a Skin Patch
 A "Skin Patch" is a really really janky way of saying that you can *technically* have a skinpack in 1.1.5 you customize a skin from a specific skinpack, and then directly change the texture in the Before The Bloat APK. The only true downside to this "method" is that you can't customize any gemotry and only the skin textures. 
 
 ### The weird:
