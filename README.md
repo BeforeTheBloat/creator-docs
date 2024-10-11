@@ -1,11 +1,11 @@
-##Wtf is a Skin Patch?
+## Wtf is a Skin Patch?
 A "Skin Patch" is a really really janky way of saying that you can *technically* have a skinpack in 1.1.5 you customize a skin from a specific skinpack, and then directly change the texture in the Before The Bloat APK. The only true downside to this "method" is that you can't customize any gemotry and only the skin textures. 
 
-#The weird:
+# The weird:
 - Capes are hardcoded in a sense where if you change a cape texture it'll only show that texture client sided.
 - If you do attempt to change gemotry of ANY skin, it'll either revert or crash your game.
 
-#The good?:
+# The good:
 - Skin patches will work anywhere. No matter the server software, kinda like those edgy hive skins. (Which technically use a similar process just reusing minecrafts gemotries)
 
 ## Resource Pack Manifest
