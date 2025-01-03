@@ -105,6 +105,28 @@ PLEASE NOTE: Subpacks are not a thing in this version of minecraft.
 10. animationInvertedCrouch
 ```
 
+## Biome List
+
+```
+1. beach
+2. desert
+3. extreme_hills
+4. flat
+5. forest
+6. the_nether
+7. mesa
+8. mushroom_island
+9. ocean
+10. plain
+11. river
+12. savanna
+13. stone_beach
+14. swamp
+15. taiga
+16. snow_covered
+17. humid
+```
+
 ## Item ID List
 ```
 AIR - 0
